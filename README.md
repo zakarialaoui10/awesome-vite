@@ -48,6 +48,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [create-nx-workspace](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
 - [bati](https://github.com/batijs/bati) - Scaffolding a Vike project.
 - [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
+- [create-ziko-app](https://github.com/zakarialaoui10/create-ziko-app)
 
 ### Templates
 
